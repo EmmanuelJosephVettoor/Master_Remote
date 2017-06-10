@@ -1,1 +1,2 @@
 This is my feature4
+I am adding a second line to feature4
