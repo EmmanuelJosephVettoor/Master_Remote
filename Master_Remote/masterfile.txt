@@ -2,5 +2,6 @@ This is my master line
 This is my develop line
 I have added a feature1 file
 Added a new file feature2
+I have added a feature3 file
 Added a new file feature4
 
